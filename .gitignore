@@ -1,0 +1,12 @@
+venv/
+__pycache__
+migrations/
+log
+.idea/
+*.pyc
+const.py
+setup.py
+build
+dist
+*.egg-info
+MANIFEST
