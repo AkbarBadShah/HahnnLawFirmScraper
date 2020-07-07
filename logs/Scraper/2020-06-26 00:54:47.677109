@@ -1,0 +1,4 @@
+2020-06-26 00:54:47,678 - 140532906460992 - INFO - Querying https://www.hannlawfirm.com/blog/category/divorce/
+2020-06-26 00:54:52,985 - 140532906460992 - INFO - Querying https://www.hannlawfirm.com/blog/2020/06/tips-for-making-it-through-work-while-divorcing/
+2020-06-26 00:55:57,630 - 140532906460992 - WARNING - Retrying
+2020-06-26 00:56:07,645 - 140532906460992 - ERROR - Its taking tooooooooooooooooooooo long to reconnect! against https://www.hannlawfirm.com/blog/2020/06/tips-for-making-it-through-work-while-divorcing/

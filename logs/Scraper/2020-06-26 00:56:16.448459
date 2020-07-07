@@ -1,0 +1,3 @@
+2020-06-26 00:56:16,450 - 140244705109824 - INFO - Querying https://www.hannlawfirm.com/blog/category/divorce/
+2020-06-26 00:56:31,470 - 140244705109824 - WARNING - Retrying
+2020-06-26 00:56:41,492 - 140244705109824 - ERROR - Its taking tooooooooooooooooooooo long to reconnect! against https://www.hannlawfirm.com/blog/category/divorce/
